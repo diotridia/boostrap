@@ -1,0 +1,24 @@
+.jumbotron {
+  padding: 10rem 5rem;
+  background-color: white;
+}
+.info {
+  padding: 1rem 5rem;
+  background-color: #edf7fa;
+}
+.project {
+  padding: 3rem 5rem;
+  background-color: white;
+  
+}
+h2 {
+  text-align: justify;
+}
+p {
+  text-align: justify;
+}
+h3 {
+  text-align: justify;
+  font-size: 15px;
+  color: #136223;
+}
